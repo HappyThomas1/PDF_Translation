@@ -46,7 +46,7 @@ python extract_txt_from_pdf_Drag_and_Drop.py
 
 ## Contributing
 
-バグの報告や機能のリクエストなど、お気軽にGitHubの[issues](https://github.com/yourusername/PDF_Translator/issues)に投稿してください。
+バグの報告や機能のリクエストなど、お気軽にGitHubの[issues](https://github.com/HappyThomas1/PDF_Translation/issues)に投稿してください。
 
 ## License
 
