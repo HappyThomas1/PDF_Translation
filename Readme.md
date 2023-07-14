@@ -50,4 +50,4 @@ python extract_txt_from_pdf_Drag_and_Drop.py
 
 ## License
 
-このプロジェクトはMITライセンスの下でライセンスされています。詳細は[LICENSE](https://github.com/HappyThomas1/PDF_Translation/blob/main/LICENSE)をご覧ください。
+このプロジェクトはMITライセンスの下でライセンスされています。
