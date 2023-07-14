@@ -16,7 +16,7 @@ PDF Translatorは、Adobe APIを使用してPDFファイルからテキストを
     pip install -r requirements.txt
     ```
 
-3. [Adobe Document Services API](https://www.adobe.com/devnet-docs/dcsdk_io/servicesSDK/howtos/auth/credentials.html) と [OpenAI API](https://beta.openai.com/docs/developer-quickstart/) のAPIキーを取得し、環境変数に設定する:
+3. [Adobe PDF Extract API](https://developer.adobe.com/document-services/docs/overview/pdf-extract-api/quickstarts/python/) と [OpenAI API](https://platform.openai.com/docs/api-reference/introduction) のAPIキーを取得し、環境変数に設定する:
 
     ```
     export PDF_SERVICES_CLIENT_ID=your_adobe_client_id
